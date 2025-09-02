@@ -69,10 +69,3 @@ Si querés aportar mejoras o ejemplos de código:
 3. Enviá un **pull request**
 
 ---
-
-## 👨‍🏫 Autor
-
-Repositorio creado por **Dario Corvalan**, docente de la Diplomatura en Programación y Análisis de Datos.  
-📍 Universidad de Buenos Aires & Universidad Nacional de General Sarmiento.
-
----
