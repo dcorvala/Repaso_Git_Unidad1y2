@@ -7,7 +7,7 @@ Incluye una presentación con conceptos teóricos y una tarea práctica de repas
 
 ## 📂 Contenidos
 
-- **📊 Programacion.pptm**  
+- **📊 Repaso_Git_GitHub.pdf**  
   Presentación con conceptos introductorios de programación.  
   Ideal para seguir la explicación en clase o repasar de manera autónoma.
 
@@ -67,5 +67,6 @@ Si querés aportar mejoras o ejemplos de código:
 1. Hacé un **fork** del repositorio  
 2. Creá una nueva rama con tus cambios  
 3. Enviá un **pull request**
+4. O envianos tu link de github donde podamos encontrar tu tarea resuelta
 
 ---
